@@ -190,13 +190,21 @@ languages  : Indonesian 🇮🇩 | English 🇬🇧
 
 </div>
 
----
-
-## 😄 Dev Joke of the Day
+## 🌐 3D Contribution Graph
 
 <div align="center">
 
-[![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)](https://github.com/ABSphreak/readme-jokes)
+![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+[![readme-quotes](https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
