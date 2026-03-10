@@ -63,6 +63,7 @@ languages  : Indonesian 🇮🇩 | English 🇬🇧
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 </div>
 
@@ -79,15 +80,6 @@ languages  : Indonesian 🇮🇩 | English 🇬🇧
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=kikiizzet&theme=tokyonight&no-frame=true&no-bg=true&column=7)
-
-</div>
 
 ---
 
@@ -95,7 +87,79 @@ languages  : Indonesian 🇮🇩 | English 🇬🇧
 
 <div align="center">
 
-[![Travel & Umroh App](https://github-readme-stats.vercel.app/api/pin/?username=kikiizzet&repo=travel-umroh-haji-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9)](https://github.com/kikiizzet/travel-umroh-haji-app)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💡 Smart Lighting IoT Monitor</h3>
+      <p align="center">
+        <a href="https://github.com/kikiizzet" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://izzet-porto.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Web-based monitoring system for smart lighting powered by IoT sensors, MQTT communication, and real-time data visualization.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⌨️ Keyboard E-Commerce</h3>
+      <p align="center">
+        <a href="https://github.com/kikiizzet" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://izzet-porto.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Stylish & ergonomic keyboard e-commerce platform with quality products at affordable prices, built with modern web technologies.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">✈️ Travel & Umroh Platform</h3>
+      <p align="center">
+        <a href="https://github.com/kikiizzet" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Full-stack travel & Umroh package management app with admin panel, testimonials, and gallery — built with NestJS & React.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🕌 Al Anshor Alfa Mulia</h3>
+      <p align="center">
+        <a href="https://github.com/kikiizzet" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://izzet-porto.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Institutional website for Al Anshor Alfa Mulia, providing information, programs, and digital presence for the organization.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+> 🔗 See all projects on my **[Portfolio](https://izzet-porto.vercel.app/)**
 
 </div>
 
