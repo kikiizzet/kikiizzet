@@ -88,82 +88,16 @@ languages  : Indonesian 🇮🇩 | English 🇬🇧
 
 ## 📌 Featured Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| 💡 [Smart Lighting IoT Monitor](https://izzet-porto.vercel.app/) | Web-based IoT monitoring system for smart lighting with MQTT & real-time data | JS · Laravel · Python · MQTT |
+| 🤖 [Smart Recruit System](https://izzet-porto.vercel.app/) | AI-powered recruitment system with automated candidate screening & HR workflows | Python · React · PostgreSQL |
+| ✈️ [Travel & Umroh Platform](https://github.com/kikiizzet) | Full-stack travel package management with admin panel, gallery & testimonials | NestJS · React · PostgreSQL |
+| 🕌 [Al Anshor Alfa Mulia](https://izzet-porto.vercel.app/) | Institutional website with programs, information & digital presence | HTML · CSS · JavaScript |
+
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💡 Smart Lighting IoT Monitor</h3>
-      <p align="center">
-        <a href="https://github.com/kikiizzet" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://izzet-porto.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">Web-based monitoring system for smart lighting powered by IoT sensors, MQTT communication, and real-time data visualization.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 Smart Recruit System</h3>
-      <p align="center">
-        <a href="https://github.com/kikiizzet" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://izzet-porto.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">AI-powered recruitment system that streamlines candidate screening, job matching, and HR workflows with intelligent automation.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">✈️ Travel & Umroh Platform</h3>
-      <p align="center">
-        <a href="https://github.com/kikiizzet" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">Full-stack travel & Umroh package management app with admin panel, testimonials, and gallery — built with NestJS & React.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🕌 Al Anshor Alfa Mulia</h3>
-      <p align="center">
-        <a href="https://github.com/kikiizzet" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://izzet-porto.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">Institutional website for Al Anshor Alfa Mulia, providing information, programs, and digital presence for the organization.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-> 🔗 See all projects on my **[Portfolio](https://izzet-porto.vercel.app/)**
+[![Portfolio](https://img.shields.io/badge/🔗_See_All_Projects-6E40C9?style=for-the-badge)](https://izzet-porto.vercel.app/)
 
 </div>
 
@@ -200,11 +134,12 @@ languages  : Indonesian 🇮🇩 | English 🇬🇧
 
 ---
 
-## 💬 Dev Quote of the Day
+## 💡 Quote
 
 <div align="center">
 
-[![readme-quotes](https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+> *"The best error message is the one that never shows up."*
+> — **Thomas Fuchs**
 
 </div>
 
