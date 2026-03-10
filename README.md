@@ -73,12 +73,15 @@ languages  : Indonesian 🇮🇩 | English 🇬🇧
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kikiizzet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kikiizzet&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kikiizzet&theme=tokyonight" width="98%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikiizzet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&langs_count=8" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kikiizzet&theme=tokyonight" width="32%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kikiizzet&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kikiizzet&theme=tokyonight" width="32%" />
 
 </div>
+
+
 
 
 ---
@@ -108,7 +111,7 @@ languages  : Indonesian 🇮🇩 | English 🇬🇧
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⌨️ Keyboard E-Commerce</h3>
+      <h3 align="center">🤖 Smart Recruit System</h3>
       <p align="center">
         <a href="https://github.com/kikiizzet" target="_blank">
           <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
@@ -117,10 +120,11 @@ languages  : Indonesian 🇮🇩 | English 🇬🇧
           <img src="https://img.shields.io/badge/Live_Demo-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
-      <p align="center">Stylish & ergonomic keyboard e-commerce platform with quality products at affordable prices, built with modern web technologies.</p>
+      <p align="center">AI-powered recruitment system that streamlines candidate screening, job matching, and HR workflows with intelligent automation.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -174,11 +178,25 @@ languages  : Indonesian 🇮🇩 | English 🇬🇧
 
 ---
 
-## 📊 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kikiizzet&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kikiizzet/kikiizzet/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kikiizzet/kikiizzet/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kikiizzet/kikiizzet/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 😄 Dev Joke of the Day
+
+<div align="center">
+
+[![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)](https://github.com/ABSphreak/readme-jokes)
 
 </div>
 
